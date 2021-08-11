@@ -1,0 +1,97 @@
+.page{
+    width: 780px;
+    margin:auto;
+   
+    font-family: 'Source sans pro', Arial, Helvetica, sans-serif ;
+    font-size: 16px;
+}
+
+.infophoto{
+    height: 350px;
+}
+.info{
+    float: left;
+}
+.photo{
+    float: right;
+}
+.forme{
+    width: 780px;
+    margin: auto;
+    
+    font-family:'Source sans pro', Arial, Helvetica, sans-serif  ;
+    font-size: 16px;
+}
+.titre{
+    text-align: center;
+     color :blue
+}
+.formations{
+    
+  border-width: 2px;
+  border-style: solid;
+ 
+ border-radius:20pt 20pt;
+        border:1px solid green;
+        margin-bottom:30px;
+}
+.color1{
+    padding : 10px;
+    padding-bottom: 0%;
+    border-radius:20pt 20pt 0pt 0pt ;
+    background-color: grey;
+    
+  
+}
+.experience{
+    
+    text-decoration-color: grey;
+    border-width: 2px;
+  
+  
+        border-radius:20pt 20pt;
+        border:1px solid green;
+        margin-bottom:30px;
+}
+.color{
+    padding : 10px;
+    padding-bottom: 0%;
+    border-radius:20pt 20pt 0pt 0pt ;
+    background-color: grey;
+    
+
+}
+
+.comp{
+    
+    border-width: 2px;
+ 
+  
+  border-radius:20pt 20pt;
+        border:1px solid green;
+        margin-bottom:30px;
+}
+.color2{
+    padding : 10px;
+    padding-bottom: 0%;
+    border-radius:20pt 20pt 0pt 0pt ;
+    background-color: grey;
+    
+
+}
+.divers{
+    
+    border-width: 2px;
+  
+  
+  border-radius:20pt 20pt;
+        border:1px solid green;
+        margin-bottom:30px;
+
+}
+.color3{
+    padding : 10px;
+    padding-bottom: 0%;
+    border-radius:20pt 20pt 0pt 0pt ;
+    background-color: grey;
+}
